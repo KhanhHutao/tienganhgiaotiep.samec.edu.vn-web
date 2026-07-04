@@ -1,0 +1,1 @@
+var e={name:`SAM Tiếng Anh đi làm`,appName:`SAM EDTECH`,hotline:`0900 000 000`,email:`hello@samec.edu.vn`,googleAppsScriptUrl:`https://script.google.com/macros/s/AKfycby_T-9XZtt_zftq7Q2JdLaMpuDvxZzR1BtODV27e8yjhtsWdw4n-v6z93cKIhPBdTQl/exec`};export{e as t};
